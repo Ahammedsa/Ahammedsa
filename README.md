@@ -5,9 +5,9 @@
 
 
 🔭 I’m currently building projects to enhance my skills and expand my portfolio.
-🌱 I’m learning [insert technology you're currently exploring, e.g., React, Node.js, or TypeScript].
+🌱 I’m learning  React, Node.js, or TypeScript , SQL and NoSQL databases to strengthen my backend knowledge and work with dynamic data.
 🤝 I’m actively looking for opportunities to collaborate on web development projects and contribute to open-source.
-🛠️ Tools & Skills: HTML, CSS, JavaScript, Git/GitHub, [add others like Bootstrap, Tailwind CSS, etc.].
+🛠️ Tools & Skills: HTML, CSS, JavaScript, Git/GitHub, Bootstrap, Tailwind CSS.
 🌟 I have a keen eye for detail and love solving challenges with clean, efficient code.
 
 Skills:  HTML / CSS/JS/REACT /Nodejs /EXPRESSJS/TYPESCRIPT
